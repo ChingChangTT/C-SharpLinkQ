@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\showLinQ\showLinQ\bin\Debug\showLinQ.exe.config
+C:\Users\MSI\Desktop\showLinQ\showLinQ\bin\Debug\showLinQ.exe
+C:\Users\MSI\Desktop\showLinQ\showLinQ\bin\Debug\showLinQ.pdb
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.Form1.resources
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.Properties.Resources.resources
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.exe
+C:\Users\MSI\Desktop\showLinQ\showLinQ\obj\Debug\showLinQ.pdb
